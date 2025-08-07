@@ -2,6 +2,8 @@
 
 **A modular pipeline for finding and annotating retrocopied genes in haploid long-read genome assemblies.**
 
+> This software is in very early alpha.
+
 ## Overview
 
 - HapLongGeneR discovers candidate retrocopied genes from haploid long-read assemblies.
