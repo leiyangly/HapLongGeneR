@@ -16,7 +16,7 @@
 
 Install dependencies (optional):
 ```bash
-conda install -c bioconda minimap2 bedtools emboss blast repeatmasker
+conda install -c bioconda minimap2 bedtools emboss blast last
 ```
 
 Clone the repository:
